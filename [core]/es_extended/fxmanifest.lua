@@ -41,7 +41,6 @@ client_scripts {
 	'common/modules/*.lua',
 	'common/functions.lua',
 
-	'common/functions.lua',
 	'client/modules/*.lua'
 }
 
